@@ -698,7 +698,9 @@ Wokwi Simulation: https://wokwi.com/projects/478408079586210817
 👩‍💻 Author
 
 Aditi Karn
+Kirti singh
 
 GitHub: @aditikarn-analyst
+        https://github.com/kirtisingh14
 
 Disclaimer: This project is an educational prototype. Its predictions are based on synthetic demonstration data and are not medically validated.
